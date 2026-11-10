@@ -1,0 +1,10 @@
+{
+  "name": "NexusSync - Sistema Unificado & Nuvem Offline",
+  "description": "Plataforma unificada com sincronização em nuvem, suporte offline PWA, autenticação biométrica segura, painel de estatísticas, gerenciamento multi-contas e arquitetura Servidor/Cliente para acesso remoto unificado.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
